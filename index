@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Interim Report – Smart Shelving System</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Smart Shelving System for Food Waste Reduction</h1>
+    <p><strong>Group Members:</strong> Phyo Thu Yein Kyaw, [Name 2], [Name 3], [Name 4]</p>
+    <p><strong>Course:</strong> EG2401A – Responsible Consumption and Production</p>
+  </header>
+
+  <section id="objective">
+    <h2>1. Objective</h2>
+    <p>
+      The objective of this project is to design an engineering solution that reduces food waste in grocery stores
+      through a smart shelving system that uses sensors and data analytics to optimize inventory management.
+    </p>
+  </section>
+
+  <section id="methodology">
+    <h2>2. Methodology</h2>
+    <ul>
+      <li>Modeling a rectangular plate in SolidWorks under plane stress conditions.</li>
+      <li>Testing various thicknesses (5 mm, 10 mm, 15 mm, 20 mm) to analyze deformation.</li>
+      <li>Defining material properties such as Young’s Modulus, Poisson’s ratio, and boundary conditions.</li>
+      <li>Simulating uniform traction loads to evaluate structural response.</li>
+    </ul>
+  </section>
+
+  <section id="results">
+    <h2>3. Preliminary Results</h2>
+    <p>
+      The simulation showed that increasing plate thickness significantly reduces displacement and stress concentrations,
+      validating the use of thicker materials for improved load-bearing capacity. Future analysis will include dynamic
+      loading and fatigue response.
+    </p>
+    <img src="images/result_plot.png" alt="Simulation Result" width="600">
+  </section>
+
+  <section id="discussion">
+    <h2>4. Discussion & Future Work</h2>
+    <p>
+      The next phase will extend the 2D plane-stress model into a 3D analysis to incorporate bending effects.
+      Experimental validation will be performed using MATLAB scripts to compare theoretical and numerical results.
+    </p>
+  </section>
+
+  <section id="references">
+    <h2>5. References</h2>
+    <ul>
+      <li>Seibert, T. (2023). Economic Impacts of Engineering Innovation.</li>
+      <li>The Planetary Society (2021). Space Technology Benefits on Earth.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 NUS – Interim Project Report | Designed by Group X</p>
+  </footer>
+</body>
+</html>
